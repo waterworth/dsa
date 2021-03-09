@@ -26,6 +26,8 @@
  *
  * */
 
+// Time Complexity: O(n) || Space Complexity: O(n)
+
 export class BinaryTree {
   value: number;
   left: BinaryTree | null;
